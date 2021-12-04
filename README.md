@@ -4,6 +4,8 @@ Demo utilizada no DevPira 2021, sobre o MinimalAPIs do .NET 6, migrando uma apli
 - Link dos slides:
     - https://github.com/juniorporfirio/DevPira21-NET6-MInimalAPIs/raw/main/DevPira21-MinimalAPIs.pdf
 
+Se você gostou deste projeto não deixe de deixar a sua estrela no projeto ! 🐱‍🏍
+
 # Pré-requisitos
 
 - .NET CORE 6 LTS - , Download a partir do link https://dotnet.microsoft.com/download/dotnet/6.0
@@ -32,8 +34,11 @@ Demo utilizada no DevPira 2021, sobre o MinimalAPIs do .NET 6, migrando uma apli
 DevPiraStudents-NET5 - Aplicação desenvolvida em .Net5 com gerenciamento de Estudantes.
 DevPiraStudents - Aplicação convertida em .Net6 como MinimalAPIs.
 
+# Como contribuir
+Caso queira aperfeiçoar ou adicionar novar features para este projeto, fique a vontade para abrir Issues ou dar um Fork no projeto 👌.
+
 # Agradecimos especiais
 
-- Minha esposa e filhas. 💕
-- Damian Edwards pela ajuda a comunidade nos testes unitários. 👍 @DamianEdwards 
-- Nick Chapsas por mostrar a possibilidade de criar validações em Minimal APIs. 👍 @Elfocrash.
+- Minha esposa e filhas💕
+- Damian Edwards pela ajuda a comunidade nos testes unitários 👍 @DamianEdwards 
+- Nick Chapsas por mostrar a possibilidade de criar validações em Minimal APIs 👍 @Elfocrash.
